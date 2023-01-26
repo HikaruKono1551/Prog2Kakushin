@@ -3,17 +3,17 @@
 - [work1][work1]
 - [work2][work2]
 - [work3][work3]
-## work1 
+## work1 pandasでTOEIC分析
 [work1はこちら][work1]
 
 [work1]:https://github.com/HikaruKono1551/Prog2Kakushin/blob/main/work1.ipynb
 
-## work2
+## work2 numpyでサイクロイド描画
 [work2はこちら][work2]
 
 [work2]:https://github.com/HikaruKono1551/Prog2Kakushin/blob/main/work2.ipynb
 
-## work3
+## work3 opencvで国旗づくり
 [work3はこちら][work3]
 
 [work3]:https://github.com/HikaruKono1551/Prog2Kakushin/blob/main/work2.ipynb

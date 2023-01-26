@@ -8,9 +8,9 @@
 ## work2
 [work2はこちら][work2]
 
-[work2]:
+[work2]:https://github.com/HikaruKono1551/Prog2Kakushin/blob/main/work2.ipynb
 
 ## work3
 [work3はこちら][work3]
 
-[work3]:
+[work3]:https://github.com/HikaruKono1551/Prog2Kakushin/blob/main/work2.ipynb
